@@ -41,7 +41,7 @@ AVERAGE_TEMPERATURE = 25
 # example array geometry
 pvrow_height = 1.13
 pvrow_width = 1.935
-surface_tilt = 20
+surface_tilt = 32
 gcr = pvrow_width / surface_tilt
 axis_azimuth = 180
 albedo = 0.2
